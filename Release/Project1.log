@@ -1,0 +1,70 @@
+﻿  Source.cpp
+c:\users\alan8\onedrive\桌面\圖學期末\project1\project1\source.cpp(7): warning C4081: 必須是 'newline'，但卻找到 ';'
+c:\users\alan8\onedrive\桌面\圖學期末\project1\project1\source.cpp(93): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+c:\users\alan8\onedrive\桌面\圖學期末\project1\project1\source.cpp(126): warning C4244: '=': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+c:\users\alan8\onedrive\桌面\圖學期末\project1\project1\source.cpp(127): warning C4244: '=': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+c:\users\alan8\onedrive\桌面\圖學期末\project1\project1\source.cpp(128): warning C4244: '=': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+c:\users\alan8\onedrive\桌面\圖學期末\project1\project1\source.cpp(131): warning C4244: '引數': 將 'GLdouble' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+c:\users\alan8\onedrive\桌面\圖學期末\project1\project1\source.cpp(142): warning C4244: '引數': 將 'GLdouble' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+c:\users\alan8\onedrive\桌面\圖學期末\project1\project1\source.cpp(147): warning C4244: '引數': 將 'GLdouble' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+c:\users\alan8\onedrive\桌面\圖學期末\project1\project1\source.cpp(367): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\alan8\onedrive\桌面\圖學期末\project1\project1\source.cpp(371): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\alan8\onedrive\桌面\圖學期末\project1\project1\source.cpp(384): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\alan8\onedrive\桌面\圖學期末\project1\project1\source.cpp(407): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\alan8\onedrive\桌面\圖學期末\project1\project1\source.cpp(413): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\alan8\onedrive\桌面\圖學期末\project1\project1\source.cpp(415): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\alan8\onedrive\桌面\圖學期末\project1\project1\source.cpp(416): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\alan8\onedrive\桌面\圖學期末\project1\project1\source.cpp(420): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\alan8\onedrive\桌面\圖學期末\project1\project1\source.cpp(422): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\alan8\onedrive\桌面\圖學期末\project1\project1\source.cpp(423): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\alan8\onedrive\桌面\圖學期末\project1\project1\source.cpp(427): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\alan8\onedrive\桌面\圖學期末\project1\project1\source.cpp(429): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\alan8\onedrive\桌面\圖學期末\project1\project1\source.cpp(430): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\alan8\onedrive\桌面\圖學期末\project1\project1\source.cpp(434): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\alan8\onedrive\桌面\圖學期末\project1\project1\source.cpp(436): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\alan8\onedrive\桌面\圖學期末\project1\project1\source.cpp(437): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\alan8\onedrive\桌面\圖學期末\project1\project1\source.cpp(450): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+c:\users\alan8\onedrive\桌面\圖學期末\project1\project1\source.cpp(450): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+c:\users\alan8\onedrive\桌面\圖學期末\project1\project1\source.cpp(457): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+c:\users\alan8\onedrive\桌面\圖學期末\project1\project1\source.cpp(457): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+c:\users\alan8\onedrive\桌面\圖學期末\project1\project1\source.cpp(476): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\alan8\onedrive\桌面\圖學期末\project1\project1\source.cpp(477): warning C4244: '引數': 將 'GLdouble' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+c:\users\alan8\onedrive\桌面\圖學期末\project1\project1\source.cpp(480): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\alan8\onedrive\桌面\圖學期末\project1\project1\source.cpp(483): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\alan8\onedrive\桌面\圖學期末\project1\project1\source.cpp(484): warning C4244: '引數': 將 'GLdouble' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+c:\users\alan8\onedrive\桌面\圖學期末\project1\project1\source.cpp(487): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\alan8\onedrive\桌面\圖學期末\project1\project1\source.cpp(494): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\alan8\onedrive\桌面\圖學期末\project1\project1\source.cpp(495): warning C4244: '引數': 將 'GLdouble' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+c:\users\alan8\onedrive\桌面\圖學期末\project1\project1\source.cpp(498): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\alan8\onedrive\桌面\圖學期末\project1\project1\source.cpp(501): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\alan8\onedrive\桌面\圖學期末\project1\project1\source.cpp(502): warning C4244: '引數': 將 'GLdouble' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+c:\users\alan8\onedrive\桌面\圖學期末\project1\project1\source.cpp(505): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\alan8\onedrive\桌面\圖學期末\project1\project1\source.cpp(520): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\alan8\onedrive\桌面\圖學期末\project1\project1\source.cpp(536): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\alan8\onedrive\桌面\圖學期末\project1\project1\source.cpp(545): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\alan8\onedrive\桌面\圖學期末\project1\project1\source.cpp(554): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\alan8\onedrive\桌面\圖學期末\project1\project1\source.cpp(562): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\alan8\onedrive\桌面\圖學期末\project1\project1\source.cpp(570): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\alan8\onedrive\桌面\圖學期末\project1\project1\source.cpp(578): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\alan8\onedrive\桌面\圖學期末\project1\project1\source.cpp(619): warning C4305: '+=': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\alan8\onedrive\桌面\圖學期末\project1\project1\source.cpp(625): warning C4305: '-=': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\alan8\onedrive\桌面\圖學期末\project1\project1\source.cpp(638): warning C4305: '+=': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\alan8\onedrive\桌面\圖學期末\project1\project1\source.cpp(644): warning C4305: '-=': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\alan8\onedrive\桌面\圖學期末\project1\project1\source.cpp(657): warning C4305: '+=': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\alan8\onedrive\桌面\圖學期末\project1\project1\source.cpp(666): warning C4305: '+=': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\alan8\onedrive\桌面\圖學期末\project1\project1\source.cpp(679): warning C4305: '正在初始化': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\alan8\onedrive\桌面\圖學期末\project1\project1\source.cpp(683): warning C4305: '正在初始化': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\alan8\onedrive\桌面\圖學期末\project1\project1\source.cpp(691): warning C4305: '正在初始化': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\alan8\onedrive\桌面\圖學期末\project1\project1\source.cpp(711): warning C4305: '正在初始化': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\alan8\onedrive\桌面\圖學期末\project1\project1\source.cpp(712): warning C4305: '正在初始化': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\alan8\onedrive\桌面\圖學期末\project1\project1\source.cpp(713): warning C4305: '正在初始化': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\alan8\onedrive\桌面\圖學期末\project1\project1\source.cpp(714): warning C4305: '正在初始化': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\alan8\onedrive\桌面\圖學期末\project1\project1\source.cpp(744): warning C4244: '=': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+c:\users\alan8\onedrive\桌面\圖學期末\project1\project1\source.cpp(745): warning C4244: '=': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+c:\users\alan8\onedrive\桌面\圖學期末\project1\project1\source.cpp(746): warning C4244: '=': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+  正在產生程式碼
+  2 of 40 functions ( 5.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  已完成程式碼產生
+  Project1.vcxproj -> C:\Users\alan8\OneDrive\桌面\圖學期末\Project1\Release\Project1.exe
